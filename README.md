@@ -1,1 +1,1 @@
-# shop-fro-home
+# shop-for-home
